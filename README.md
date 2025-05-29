@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=900&size=30&duration=4950&pause=1000&color=6ECAE1&width=435&separator=%3C&lines=sup%3Cfollow+me+;D" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://discord.com/users/1170109139989561464">
     <img src="https://lanyard-profile-readme.vercel.app/api/1170109139989561464?bg=0d1117&animated=true&hideDiscriminator=false&borderRadius=25px" alt="Discord Status" width="400px" />
   </a>
