@@ -1,6 +1,13 @@
 <div align="center">
   <a href="https://discord.com/users/1170109139989561464">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1170109139989561464?bg=0d1117&animated=true&hideDiscriminator=false&borderRadius=25px" alt="Discord Status" width="400px" />
+    <iframe 
+      src="https://www.spotynif.sbs/dala/embed.html?id=1170109139989561464&showArtist=true&showProgress=true&showAlbum=true&showUsername=true&showDuration=true&showStatus=false&theme=dark&custom=BY+potynif.sbs&songColor=&artistColor=&usernameColor=&customTextColor=&progressBgColor=&progressFillColor=&songEffect=flicker&artistEffect=fade&usernameEffect=none&customTextEffect=none&cardEntrance=none&cardHover=none&albumArtEffect=none&progressStyle=default&progressHeight=6&progressRadius=3"
+      width="400"
+      height="180"
+      style="border: none; border-radius: 25px;"
+      allowtransparency="true"
+      loading="lazy">
+    </iframe>
   </a>
 </div>
 
