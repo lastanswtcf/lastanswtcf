@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://discord.com/users/1170109139989561464">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1170109139989561464?bg=0d1117&animated=true&hideDiscriminator=false&borderRadius=25px" alt="Discord Status" width="400px" />
+    <img src="https://obsmusicwidget.vercel.app/1170109139989561464?&b=f&o=0&br=100" />
   </a>
 </div>
 
