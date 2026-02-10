@@ -10,7 +10,7 @@
 
 ---
 
-<img align="left" src="https://i.pinimg.com/736x/3d/c9/b0/3dc9b0cc20ab17644b00a10e154149a7.jpg" width="100" style="border-radius: 15px; margin-top: 20px; margin-right: 15px;" />
+<img align="left" src="https://i.pinimg.com/736x/8b/4c/c1/8b4cc1e468666360b9e496a6192204a0.jpg" width="100" style="border-radius: 15px; margin-top: 20px; margin-right: 15px;" />
 
 hi, i am andrei  
 i like to script stuff (mostly python & web things)  
