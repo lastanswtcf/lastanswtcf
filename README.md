@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=305DB3&width=435&separator=%3C&lines=personal+page%3A+lastanswtcf.lol%3Ccheck+my+projects+;D" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=305DB3&width=435&separator=%3C&lines=personal+page%3A+lastanswtcf.lol%3Ccheck+my+projects+;D" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,9 +10,10 @@
 
 ---
 
-<img align="left" src="https://i.pinimg.com/736x/af/01/87/af0187afcf88835bcac98fcb03d8b053.jpg" width="100" style="border-radius: 15px; margin-top: 20px;" />
+<img align="left" src="https://i.pinimg.com/736x/af/01/87/af0187afcf88835bcac98fcb03d8b053.jpg" width="100" style="border-radius: 15px; margin-top: 20px; margin-right: 15px;" />
 
 hi, i am andrei  
-my project page <a href="https://www.lastanswtcf.lol/" target="_blank" style="text-decoration: none;">
-  <img src="https://i.pinimg.com/originals/0a/ef/12/0aef12552b2326cb735ff5fca04025b3.gif" alt="cute arrow" width="20" style="vertical-align: text-bottom; margin-left: 5px; margin-right: 5px; margin-bottom: 3px;" />
-</a>
+i like to script stuff (mostly python & web things)  
+always messing with code late at night <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="arrow" width="25" style="vertical-align: text-bottom; margin-left: 5px; margin-right: 5px; margin-bottom: 15px;" />
+
+<small>my page: <a href="https://www.lastanswtcf.lol/" target="_blank" style="text-decoration: none; color: #58a6ff;">lastanswtcf.lol</a></small>
