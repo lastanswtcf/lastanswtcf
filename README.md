@@ -8,19 +8,6 @@
   </a>
 </div>
 
----
-
-<img align="left" src="https://i.pinimg.com/736x/ae/3d/96/ae3d96c0739a3796ffcd64b27279d614.jpg" width="100" style="border-radius: 15px; margin-top: 20px; margin-right: 15px;" />
-
-### hi, i am andrei
-
-i like to script stuff (mostly python & web things)  
-always messing with code late at night <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="arrow" width="25" style="vertical-align: text-bottom; margin-left: 5px; margin-right: 5px; margin-bottom: 15px;" />
-
-<br clear="left"/>
-
----
-
 ### programming languages
 
 <div align="center">
