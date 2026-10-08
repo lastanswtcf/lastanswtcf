@@ -52,5 +52,5 @@
 ---
 
 <div align="center">
-  <small>my page: <a href="https://www.lastanswtcf.lol/" target="_blank" style="text-decoration: none; color: #58a6ff;">lastanswtcf.lol</a></small>
+  <small>my page: <a href="https://www.lwsg.space/" target="_blank" style="text-decoration: none; color: #58a6ff;">lwsg.space</a></small>
 </div>
